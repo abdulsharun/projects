@@ -6,4 +6,4 @@ The projects are divided into python, sql and R projects and arranged in order; 
 You can view any project my clicking the link provided below.
 
 ## Python Projects
-1. [Helicopter Escapes]
+1. [Helicopter Escapes](https://github.com/abdulsharun/projects/blob/main/HelicopterEscapes.ipynb)
