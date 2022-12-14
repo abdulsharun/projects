@@ -14,5 +14,5 @@ All projects descriptions and links are provided below:
 - In this guided project, I cleaned and analyzed 2 datasets to help developers of Android and iOS mobile apps to understand which types of applications have the potential to be more profitable on Google Play and App Store markets.
 
 ## SQL Projects
-1. []()
+1. [Analyzing CIA Factbook Data Using SQL](https://github.com/abdulsharun/projects/blob/main/Analyzing-CIA-Factbook-Data-Using-SQL.ipynb)
  - In this project, I explored the SQLite `factbook.db` database and analyzed the data based on demographic indicators like population, mortality, and fertility.
