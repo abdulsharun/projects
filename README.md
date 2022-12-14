@@ -1,7 +1,7 @@
 # My Projects
 
 This repository contains guided and unguided projects I did through my journey of becoming a data analyst.
-The projects are divided into Python and SQl projects and arranged in order; from my first to current project. (* I am currently updating this repository*).
+The projects are divided into Python and SQl projects and arranged in order; from my first to current project. *(I am currently updating this repository)*.
 
 All projects descriptions and links are provided below:
 
