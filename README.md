@@ -16,7 +16,11 @@ In my first project, I analyzed a dataset of helicopter prison escape attempts t
 
 In this guided project, I cleaned and analyzed 2 datasets to help developers of Android and iOS mobile apps to understand which types of applications have the potential to be more profitable on Google Play and App Store markets.
 
+3. Exploring Hacker News Posts
+
+In this project, I analyzed a dataset from [Hacker News website](https://news.ycombinator.com/) to determine which type of post generates more comments and which time of the day has the most comments. In doing so, users will be able to know the type of post to make on the website and the best time of the day to make that post to generate more comments.
+
 ## SQL Projects
 1. [Analyzing CIA Factbook Data Using SQL](https://github.com/abdulsharun/projects/blob/main/Analyzing-CIA-Factbook-Data-Using-SQL.ipynb)
  
- In this project, I explored the SQLite `factbook.db` database and analyzed the data based on demographic indicators like population, mortality, and fertility.
+In this project, I explored the SQLite `factbook.db` database and analyzed the data based on demographic indicators like population, mortality, and fertility.
