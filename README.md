@@ -20,7 +20,9 @@ In this guided project, I cleaned and analyzed 2 datasets to help developers of 
 
 In this project, I analyzed a dataset from [Hacker News website](https://news.ycombinator.com/) to determine which type of post generates more comments and which time of the day has the most comments. In doing so, users will be able to know the type of post to make on the website and the best time of the day to make that post to generate more comments.
 
-4. [Exploring eBay Car Sales]
+4. [Exploring eBay Car Sales](https://github.com/abdulsharun/projects/blob/main/Exploring-eBay-Car-Sales.ipynb)
+
+In this project, I cleaned and analyzed a dataset from a [classified](https://en.wikipedia.org/wiki/Classified_advertising) section of the German eBay website known as *eBay Kleinanzeigen* and found out the relationships between price, mileage and popularity of cars listed on the website.
 
 ## SQL Projects
 1. [Analyzing CIA Factbook Data Using SQL](https://github.com/abdulsharun/projects/blob/main/Analyzing-CIA-Factbook-Data-Using-SQL.ipynb)
